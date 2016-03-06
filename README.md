@@ -1,7 +1,7 @@
 readability-api
 ===============
 
-### Example
+### Demo
 
 ```bash
 $ curl -s https://readability-api.herokuapp.com/?fetch_url=https://www.twreporter.org/a/opinion-scandinavia-refugee 
